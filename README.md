@@ -1,2 +1,2 @@
 # Systems-development-learning-journey
-Systems development portfolioi
+Systems development portfolio
